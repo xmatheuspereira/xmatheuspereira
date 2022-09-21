@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Pereira</h1>
 <h3 align="center">A web developer from Brazil and I am passionate about everything related to web development</h3>
 </br>
-<img align="right" alt="Coding" width="350" src="https://octodex.github.com/images/baracktocat.jpg">
+<img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/baracktocat.jpg">
 
 - 🔭 I’m currently working on **personal projects**
 
