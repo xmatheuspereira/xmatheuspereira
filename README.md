@@ -4,7 +4,7 @@
 
 <h3 align="center">A web developer from Brazil and I am passionate about everything related to web development</h3>
 
-(img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/baracktocat.jpg")
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/baracktocat.jpg">
 
 - 🔭 I’m currently working on **personal projects**
 
