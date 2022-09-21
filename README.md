@@ -27,4 +27,6 @@
 
 <p><img align="left" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmatheuspereira&&count_private=true&show_icons=true&hide_title=true&theme=dracula&locale=en&layout=compact" alt="xmatheuspereira" /></p>
 
+[![xmatheuspereira's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugovk&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dracula&locale=en)](https://github.com/xmatheuspereira/github-readme-stats)
+
 <p>&nbsp;<img align="center" width="360" src="https://github-readme-stats.vercel.app/api?username=xmatheuspereira&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dracula&locale=en" alt="xmatheuspereira" /></p>
