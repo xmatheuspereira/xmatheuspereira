@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmatheuspereira&show_icons=true&theme=dracula&locale=en&layout=compact" alt="xmatheuspereira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmatheuspereira&show_icons=true&theme=dracula&locale=en" alt="xmatheuspereira" /></p>
+<p>&nbsp;<img align="center" width="349" src="https://github-readme-stats.vercel.app/api?username=xmatheuspereira&show_icons=true&theme=dracula&locale=en" alt="xmatheuspereira" /></p>
