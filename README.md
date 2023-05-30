@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **back-end development**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
