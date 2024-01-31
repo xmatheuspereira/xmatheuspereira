@@ -5,9 +5,9 @@
 </br>
 <img align="right" alt="Coding" width="300" src="https://octodex.github.com/images/baracktocat.jpg">
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working at **e-Safer**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AngularJS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
